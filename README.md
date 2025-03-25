@@ -2,6 +2,9 @@
 
 ## **By Sivan Itzhaki**
 
+![download](https://github.com/user-attachments/assets/1dffe2dd-1586-4f6d-9677-cf84d366dfe6)
+
+
 ## **Customer Churn Prediction**   
 The project focuses on **customer churn prediction** using **AutoML with H2O** to identify high-risk customers and enable proactive retention strategies.  
 All models and their performance metrics were tracked using **MLflow** for reproducibility, monitoring, and comparison.  
